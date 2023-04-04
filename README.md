@@ -17,6 +17,7 @@
 * Bibliotecas do Node Package Manager;
   - Express: integrar a engine, gerenciar requisições.
   - Mongoose: integração com o banco de dados.
+  - CORS: habilitar a API.
 * MongoDb;
 
 ## :rocket: Como executar 
