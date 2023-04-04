@@ -28,3 +28,4 @@
 * Acesse o arquivo **index.html** localizado na pasta raíz do projeto
 
 ## :computer: Exemplo de Funcionamento
+![Desktop 2023 04 04 - 17 34 37 02](https://user-images.githubusercontent.com/57718626/229915933-0551c9c7-bb28-42cc-abe2-ed5af027e656.gif)
